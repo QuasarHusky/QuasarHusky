@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <a href="https://quasar.dog">
-      <img src="https://quasarhusky.uk/socials/quasar-pizza.png" style="width: 300px;"><br>
+      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/quasar-pizza.png" style="width: 300px;"><br>
       ― QuasarHusky ―
     </a>
   </h1>
@@ -19,21 +19,21 @@
 <h2></h2>
 
 <div align="center">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/vinyl-scratch.png?raw=true">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/derpy.png?raw=true">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/everypony-best-pony.gif?raw=true">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/mlp-mane-six.gif?raw=true">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/antonymph.gif?raw=true">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/vinyl-scratch.png">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/derpy.png">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/everypony-best-pony.gif">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/mlp-mane-six.gif">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/antonymph.gif">
 </div>
 
 <div align="center">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/i-heart-pizza-hut.gif?raw=true">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/asexual-pride.gif?raw=true">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/minecraft-vegetarian.gif?raw=true">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/i-heart-pizza-hut.gif">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/asexual-pride.gif">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/minecraft-vegetarian.gif">
 </div>
 
 <h2></h2>
 
 <div align="center">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Buttons/kris-where-tf-are-we.png?raw=true">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Buttons/kris-where-tf-are-we.png">
 </div>
