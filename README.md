@@ -1,5 +1,19 @@
 <div align="center">
-  <img src="https://quasarhusky.uk/socials/quasar-pizza.png" style="width: 300px;">
-  <h1>QuasarHusky</h1>
-  <p>https://quasar.dog/</p>
+  <h1>
+    <a href="https://quasar.dog">
+      <img src="https://quasarhusky.uk/socials/quasar-pizza.png" style="width: 300px;"><br>
+      ― QuasarHusky ―
+    </a>
+  </h1>
 </div>
+
+<h3 align="center">Spotted me on Pony Town?<br>Feel free to say hi!</h3>
+<p align="center">🟢 Active • 🌙 Tabbed out • ⛔ AFK<br>Boops and whispers welcome!</p>
+<p align="center"><b>/)</b></p>
+<p align="center">I'm fairly quiet, but usually happy to chat about MLP, my OCs, or <a href="https://quasar.dog/steam">any of the games I've played</a>!</p>
+<p align="center">You're more than welcome to just sit and chill with me if you'd like, too!</p>
+<p align="center">If you see 🎧🎵 in my name, it means I'm currently listening to music.<br>Check out <a href="https://quasar.dog/lastfm">my Last.fm profile</a> to see what I'm listening to!</p>
+<p align="center">You can also see my other socials at https://quasar.dog/</p>
+<p align="center"><i>Oh, and let me know if you read this page!<br>I'd love to know how many people see it ^^</i></p>
+
+<h2></h2>
