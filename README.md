@@ -31,3 +31,9 @@
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/asexual-pride.gif?raw=true">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/minecraft-vegetarian.gif?raw=true">
 </div>
+
+<h2></h2>
+
+<div align="center">
+  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Buttons/kris-where-tf-are-we.png?raw=true">
+</div>
