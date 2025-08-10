@@ -7,11 +7,17 @@
   </h1>
 </div>
 
+<h3 align="center">Currently Listening</h3>
 <div align="center">
   <a href="https://quasar.dog/lastfm">
     <img src="https://api.quasarhusky.uk/widget/now-playing-img?b">
   </a>
 </div>
+<div align="center">
+  <a href="https://quasar.dog/lastfm">Check out my last.fm!</a>
+</div>
+
+<h2></h2>
 
 <h3 align="center">Spotted me on Pony Town?<br>Feel free to say hi!</h3>
 <p align="center">🟢 Active • 🌙 AFK • ⛔ Do not disturb<br>Boops and whispers welcome!</p>
