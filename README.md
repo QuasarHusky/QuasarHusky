@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://quasar.dog/lastfm">Check out my last.fm!</a>
+  <a href="https://quasar.dog/lastfm">See my recent listens on last.fm!</a>
 </div>
 
 <h2></h2>
