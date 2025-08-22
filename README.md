@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://quasar.dog/lastfm">
-    <img src="https://api.quasarhusky.uk/widget/now-playing-img">
+    <img src="https://api.quasarhusky.uk/widget/now-playing-img?b">
   </a>
 </div>
 <div align="center">
