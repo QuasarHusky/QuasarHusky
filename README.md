@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://quasar.dog/lastfm">
-    <img src="https://api.quasarhusky.uk/widget/now-playing-img?b">
+    <img src="https://api.quasarhusky.uk/widget/now-playing-img">
   </a>
 </div>
 <div align="center">
@@ -30,11 +30,20 @@
 <h2></h2>
 
 <div align="center">
+  <a href="https://quasar.dog/guestbook">
+    <img align="center" src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/guestbook.png">
+  </a>
+  <div align="center">
+    <a href="https://quasar.dog/guestbook">Leave a message in my guestbook!</a>
+  </div>
+</div>
+
+<h2></h2>
+
+<div align="center">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/vinyl-bop.gif" style="width: 150px;">
 </div>
 <p align="center">Vinyl Scratch is best pony &lt;3</p>
-
-<h2></h2>
 
 <div align="center">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/vinyl-scratch.png">
@@ -49,8 +58,7 @@
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/asexual-pride.gif">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/minecraft-vegetarian.gif">
 </div>
-
+<br>
 <div align="center">
-  <br><br><br>
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Buttons/kris-where-tf-are-we.png">
 </div>
