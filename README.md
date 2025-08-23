@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://quasar.dog/lastfm">
+  <a href="https://api.quasarhusky.uk/link/now-playing">
     <img src="https://api.quasarhusky.uk/widget/now-playing-img?b">
   </a>
 </div>
