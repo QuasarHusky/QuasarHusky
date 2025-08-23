@@ -30,17 +30,6 @@
 <h2></h2>
 
 <div align="center">
-  <a href="https://quasar.dog/guestbook">
-    <img align="center" src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/guestbook.png">
-  </a>
-  <div align="center">
-    <a href="https://quasar.dog/guestbook">Leave a message in my guestbook!</a>
-  </div>
-</div>
-
-<h2></h2>
-
-<div align="center">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/vinyl-bop.gif" style="width: 150px;">
 </div>
 <p align="center">Vinyl Scratch is best pony &lt;3</p>
@@ -61,4 +50,15 @@
 <br>
 <div align="center">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Buttons/kris-where-tf-are-we.png">
+</div>
+
+<h2></h2>
+
+<div align="center">
+  <a href="https://quasar.dog/guestbook">
+    <img align="center" src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/guestbook.png">
+  </a>
+  <div align="center">
+    <a href="https://quasar.dog/guestbook">Leave a message in my guestbook!</a>
+  </div>
 </div>
