@@ -2,7 +2,8 @@
   <h1>
     <a href="https://quasar.dog">
       <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/quasar-pizza.png" style="width: 300px;">
-      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/logo-text.svg" style="width: 500px;">
+      <br>
+      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/logo-text.svg" style="width: 250px;">
     </a>
   </h1>
 </div>
