@@ -67,5 +67,5 @@
 <h2></h2>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuasarHusky&label=Page%20Views&labelColor=%230b2765&countColor=%231f69be&labelStyle=none" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FQuasarHusky&label=Visitors&labelColor=%230b2765&countColor=%231f69be&labelStyle=none" />
 </div>
